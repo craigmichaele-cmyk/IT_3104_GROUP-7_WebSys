@@ -128,4 +128,12 @@ section {
         font-size: 12px;
         white-space: nowrap;
     }
+
+    section {
+        display: block;
+        width: 100%;
+        grid-column:1 / -1;
+        flex: 0 0 100%;
+
+    }
 }
