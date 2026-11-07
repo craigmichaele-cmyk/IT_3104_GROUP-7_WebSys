@@ -5,7 +5,7 @@ const backgroundButton = document.getElementById("backgroundButton");
 // Original and New Messages
 const originalMessage = "Our names are John Marco Antonio, Elyzah Kim Diaz, Craig Michael Esleta.";
 
-const newMessage = "Hello! Welcome to my webpage.";
+const newMessage = "Hello! Welcome to our webpage.";
 
 let isChanged = false;
 
